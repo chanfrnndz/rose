@@ -551,4 +551,14 @@ html, body {
       box-shadow: 0px 0px 60px #f594b8;
     }
   }
-  
+
+
+@import url('https://fonts.googleapis.com/css?family=Qwigley');
+p {
+    font-family: Qwigley, cursive;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(255, 117, 159);
+    background-color: rgb(84, 84, 84);
+    text-shadow: rgb(0, 0, 0) 2px 2px 2px;
+}
